@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<StudentTableStore>
+	<Student Id="2">
+		<Name>LiZhen</Name>
+		<Sex>true</Sex>
+		<CourseList>
+			<Course Id="00001">
+				<Name>Math</Name>
+				<Score>89</Score>
+			</Course>
+			<Course Id="00002">
+				<Name>English</Name>
+				<Score>89</Score>
+			</Course>
+			<Course Id="00003">
+				<Name>Chinese</Name>
+				<Score>89</Score>
+			</Course>
+		</CourseList>
+	</Student>
+	<Student Id="3">
+		<Name>LiZhen</Name>
+		<Sex>true</Sex>
+		<CourseList>
+			<Course Id="00001">
+				<Name>Math</Name>
+				<Score>89</Score>
+			</Course>
+			<Course Id="00002">
+				<Name>English</Name>
+				<Score>89</Score>
+			</Course>
+			<Course Id="00003">
+				<Name>Chinese</Name>
+				<Score>89</Score>
+			</Course>
+		</CourseList>
+	</Student>
+	<Student Id="4">
+		<Name>LiZhen</Name>
+		<Sex>true</Sex>
+		<CourseList>
+			<Course Id="00001">
+				<Name>Math</Name>
+				<Score>89</Score>
+			</Course>
+			<Course Id="00002">
+				<Name>English</Name>
+				<Score>89</Score>
+			</Course>
+			<Course Id="00003">
+				<Name>Chinese</Name>
+				<Score>89</Score>
+			</Course>
+		</CourseList>
+	</Student>
+	<Student Id="5">
+		<Name>LiZhen</Name>
+		<Sex>true</Sex>
+		<CourseList>
+			<Course Id="00001">
+				<Name>Math</Name>
+				<Score>89</Score>
+			</Course>
+			<Course Id="00002">
+				<Name>English</Name>
+				<Score>89</Score>
+			</Course>
+			<Course Id="00003">
+				<Name>Chinese</Name>
+				<Score>89</Score>
+			</Course>
+		</CourseList>
+	</Student>
+	<Student Id="1">
+		<Name>LiZhen</Name>
+		<Sex>true</Sex>
+		<CourseList>
+			<Course Id="00001">
+				<Name>Math</Name>
+				<Score>89</Score>
+			</Course>
+			<Course Id="00002">
+				<Name>English</Name>
+				<Score>89</Score>
+			</Course>
+			<Course Id="00003">
+				<Name>Chinese</Name>
+				<Score>89</Score>
+			</Course>
+		</CourseList>
+	</Student>
+</StudentTableStore>
